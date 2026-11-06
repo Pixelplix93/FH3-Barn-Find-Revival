@@ -2,7 +2,7 @@
 
 # FH3 Barn Find Revival
 
-<img width="1356" height="452" alt="FH3" src="https://github.com/user-attachments/assets/2fc0212c-b48c-4dae-9a0b-3958f69534e8" />
+<img width="1300" height="298" alt="FH3" src="https://github.com/user-attachments/assets/55dcaec3-e822-4667-95d8-b7d06e619817" />
 
 **Bring back two limited-time barn finds in Forza Horizon 3.**  
 **UWP & Azimuth**
@@ -10,8 +10,6 @@
 </div>
 
 ## Barn finds
-
-<img width="1300" height="298" alt="FH3" src="https://github.com/user-attachments/assets/55dcaec3-e822-4667-95d8-b7d06e619817" />
 
 - **#19 — 1977 AMC Pacer X**
 - **#20 — 1956 Porsche 356A Speedster**
