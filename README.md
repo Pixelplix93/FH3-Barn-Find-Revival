@@ -34,7 +34,7 @@ The tool activates their original rumors and purple map search areas.
 
 ## When do the map markers appear?
 
-You can click **Activate before Warren’s first barn-find call**. The additional dialogue may play earlier, but the two purple search areas appear **after Warren announces the first regular barn find**. You do **not** need to discover or restore the Ferrari Dino first.
+You can activate both barn finds **after receiving your first car**, even before Warren's first barn-find call. The purple search areas appear **after Warren announces the first regular barn find**.
 
 ## Credits 
 
