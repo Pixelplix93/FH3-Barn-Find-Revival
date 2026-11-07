@@ -38,7 +38,7 @@ You can activate both barn finds **after receiving your first car**, even before
 
 ## Credits 
 
-Created by **Epix Digital Studio aka Pixeplix93**. 
+Created by **Epix Digital Studio aka Pixelplix93**. 
 
 Save encryption uses the separately downloaded **[Forza Crypto Tool by DVS-code](https://github.com/DVS-code/Forza-Crypto-Tool)** (not included).
 
